@@ -1,5 +1,5 @@
 package exmp2;
-//good start
+//good startfffff
 
 public class exmpale {
 
